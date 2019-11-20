@@ -1,3 +1,5 @@
+' Copyright (C) 2019 subdragonzj All rights reserved
+
 Attribute VB_Name = "CNC"
 Dim ncrow As Long
 
